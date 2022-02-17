@@ -1,0 +1,6 @@
+Read input
+set sum = 0
+While(input)
+ square input
+ Set sum to be square input + sum
+ Read input
